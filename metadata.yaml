@@ -1,0 +1,23 @@
+_repo: The-Hero-of-Hill-House_7035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hale, Mabel
+    gutenberg_agent_id: '2316'
+    url: http://www.gutenberg.org/2009/agents/2316
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Motherless families -- Fiction'
+- GITenberg
+title: The Hero of Hill House
+url: http://www.gutenberg.org/ebooks/7035
